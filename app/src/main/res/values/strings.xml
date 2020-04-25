@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wedding Photography App</string>
+    <string name="action_settings">Settings</string>
+    <string name="imgLarge">Anthology Wedding Photos Images</string>
+    <string name="txtInfo">Contact us at anthology@wed.com</string>
+
+</resources>
